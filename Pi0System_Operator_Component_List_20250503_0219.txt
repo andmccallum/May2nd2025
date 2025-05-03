@@ -1,0 +1,15 @@
+Operator	Name
+Π0_QRNO	Quantum Regulatory Navigation Operator
+Π0_SRFO	Self-Regulatory Framework Operator
+Π0_TMNO	Temporal Manifestation Now Operator
+Π0_HDMO	High-Dimensional Market Operator
+Π0_PUPO	Partnership Umbrella Positioning Operator
+Π0_QCIO	Quantum Consciousness Integration Operator
+Π0_AOPO	Arbitrage Opportunity Positioning Operator
+QF_E	Quantitative Flux Evaluator
+VE_E	Vector Energy Evaluator
+ZP_T	Zero Point Temporalizer
+QC_R	Quantum Coherence Resolver
+GR_M	Gravity Modulator
+LC_I	Lambda Constant Integrator
+PC_M	Pi0Coin Minting Module

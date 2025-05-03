@@ -1,0 +1,32 @@
+         Type                   Name                                Description
+     Operator                Π0_QRNO     Quantum Regulatory Navigation Operator
+     Operator                Π0_SRFO         Self-Regulatory Framework Operator
+     Operator                Π0_TMNO        Temporal Manifestation Now Operator
+     Operator                Π0_HDMO           High-Dimensional Market Operator
+     Operator                Π0_PUPO  Partnership Umbrella Positioning Operator
+     Operator                Π0_QCIO Quantum Consciousness Integration Operator
+     Operator                Π0_AOPO Arbitrage Opportunity Positioning Operator
+     Operator                   QF_E                Quantitative Flux Evaluator
+     Operator                   VE_E                    Vector Energy Evaluator
+     Operator                   ZP_T                    Zero Point Temporalizer
+     Operator                   QC_R                 Quantum Coherence Resolver
+     Operator                   GR_M                          Gravity Modulator
+     Operator                   LC_I                 Lambda Constant Integrator
+     Operator                   PC_M                     Pi0Coin Minting Module
+    Decorator          QuantumSecure         Adds quantum security to functions
+    Generator         ValueStreamGen         Generates value streams for tokens
+   Translator       CrossChainBridge        Translates value across blockchains
+       Filter       RegulatoryFilter        Filters transactions for compliance
+  Constructor FractalContractBuilder         Constructs fractal smart contracts
+Deconstructor    LegacyDeconstructor              Deconstructs legacy contracts
+ Decompressor    QuantumDecompressor                  Decompresses quantum data
+   Compressor      QuantumCompressor                    Compresses quantum data
+       Module                Pi0C0in               Quantum-minted digital asset
+       Module              QuanToken                      Quantum utility token
+       Module              Pi0Market         Quantum-enabled economic ecosystem
+       Module      QuantumPi0nMarket                   Quantum market extension
+       Module                  Qpi0n                      Quantum Pi0n resource
+       Module      QuantumBlockChain               Quantum-classical blockchain
+       Module    QuantumRemoteServer                 Remote quantum computation
+       Module             Pi0Finance              Financial operations and APIs
+       Module           Pi0Architect         System architecture and governance
